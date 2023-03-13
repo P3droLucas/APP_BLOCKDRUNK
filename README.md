@@ -1,7 +1,8 @@
 # APP_BLOCKDRUNK
  ## Projeto Integrador SENAC
 
- ### Este é um projeto em que o principal objetivo da aplicação é evitar o uso das redes sociais e compras quando se está ébrio. Realizado pelos alunos da turma de ADS do 4º SEMESTRE - EAD 2021 - SENAC, cujo os alunos do GRUPO 19 são: 
+ ### Este é um projeto em que o principal objetivo da aplicação é evitar o uso das redes sociais e compras quando se está ébrio. Realizado pelos alunos da turma de ADS do 4º SEMESTRE - EAD 2021 - SENAC, cujo os alunos são: 
+ Grupo 19
  * Pedro Lucas Moraes de Sousa Rosa
  * Yara Guedes Lopes
  * Leonardo Teixeira 
